@@ -62,7 +62,7 @@ Y decided to use 3 new notebooks for this project: One for the machine learning,
 After completing the process I noted that at fist sight the characteristics of fake news and real news were very similar. Looking more closely I found some surprising results: While real news news have longer texts, fake news have 220.86% more unique words. The polarity of the two news types is almost equally high but subjectivity is much higher in fake news. Another striking peculiarity is, that the number of real news grew by 478% between august and october 2017. 
 The good news is that machine learning is able to analyse whether an article is fake news or real news with an effectiveness of 98%.
 
-<img src="images/text subjectivity.png"/>
+<img src="images/text subjectivity.png" width="700" height="350" />
 
 ### Tableau
 <a id='section7'></a>

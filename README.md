@@ -41,8 +41,8 @@ My first approach consisted in working on a small sample of the information firs
                        * Importing the data
                        * Exploring the data (EDA Method)
                        * Cleaning the data
-                       [link to: final project | cleaning sample]
-                       [link to: final project | cleaning complete data]
+                       [link to: final project | cleaning sample](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final%20project%20%7C%20cleaning%20sample.ipynb)
+                       [link to: final project | cleaning complete data](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final_project_cleaning_complete_data.ipynb)
                                
 <a id='section4'></a>
 ### First ideas
@@ -52,9 +52,9 @@ The first challenge was to prepare the data in the best way to gain as much info
 ### Second step
 
 Y decided to use 3 new notebooks for this project: One for the machine learning, another one for vizualisation and the last one for the NLP
-[Link to fake and real news machine learning]
-[Link to fake_and_real_news_viz]
-[Link to fake and real news viz- NLP]
+[Link to fake and real news machine learning](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_machine_learning.ipynb)
+[Link to fake_and_real_news_viz](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_viz.ipynb)
+[Link to fake and real news viz- NLP](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_NLP.ipynb)
 
 ### Conclusions
 <a id='section6'></a>
@@ -67,7 +67,7 @@ The good news is that machine learning is able to analyse whether an article is 
 ### Tableau
 <a id='section7'></a>
 
-For this Ironhack project I decided to do the presentation on Tableau if you would like to see it, please visit my Tableau profile [Link to tableau story](https://public.tableau.com/profile/antonio.saleme#!/)
+For this Ironhack project I decided to do the presentation on Tableau if you would like to see it, please visit my Tableau profile [Link to tableau story](https://public.tableau.com/profile/antonio.saleme#!/vizhome/IronhackFinalProject_16215438090200/Sheet1?publish=yes)
 
 
 

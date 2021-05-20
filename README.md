@@ -37,12 +37,13 @@ The objective of working on a database of fake news and real news is to apply ma
 
 The dataset I used consists of information on 44898 rows of a [Kaggle dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) about fake and real news from the time between March 2015 and February 2018
 
-My first approach consisted in working on a small sample of the information first in order to try out the effectiveness of the process quickly and apply the steps to the whole dataset later on. These are the different steps of the process:
-                       * Importing the data
-                       * Exploring the data (EDA Method)
-                       * Cleaning the data
-                       [link to: final project | cleaning sample](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final%20project%20%7C%20cleaning%20sample.ipynb)
-                       [link to: final project | cleaning complete data](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final_project_cleaning_complete_data.ipynb)
+My first approach consisted in working on a small sample of the information first in order to try out the effectiveness of the process quickly and apply the steps to the whole dataset later on. These are the different steps of the process:<br>
+* Importing the data<br>
+* Exploring the data (EDA Method)<br>
+* Cleaning the data<br>
+
+[Link to final project | cleaning sample](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final%20project%20%7C%20cleaning%20sample.ipynb)<br>
+[Link to final project | cleaning complete data](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/final_project_cleaning_complete_data.ipynb)<br>
                                
 <a id='section4'></a>
 ### First ideas
@@ -51,10 +52,10 @@ The first challenge was to prepare the data in the best way to gain as much info
 <a id='section5'></a>
 ### Second step
 
-Y decided to use 3 new notebooks for this project: One for the machine learning, another one for vizualisation and the last one for the NLP
-[Link to fake and real news machine learning](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_machine_learning.ipynb)
-[Link to fake_and_real_news_viz](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_viz.ipynb)
-[Link to fake and real news viz- NLP](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_NLP.ipynb)
+Y decided to use 3 new notebooks for this project: One for the machine learning, another one for vizualisation and the last one for the NLP<br>
+[Link to fake and real news machine learning](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_machine_learning.ipynb)<br>
+[Link to fake and real news viz](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_viz.ipynb)<br>
+[Link to fake and real news NLP](https://github.com/antonio-datahack/Ironhack-final-project/blob/main/notebooks/fake_and_real_news_NLP.ipynb)<br>
 
 ### Conclusions
 <a id='section6'></a>

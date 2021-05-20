@@ -3,6 +3,7 @@
 </p>
 
 # Ironhack Final Projec:
+by [Antonio Saleme](https://www.linkedin.com/in/antonio-saleme-sastre/)
 
 ### Index:
 
@@ -32,7 +33,7 @@ The objective of working on a database of fake news and real news is to apply ma
                                         
 
 <a id='section3'></a>
-### first steps
+### First steps
 
 The dataset I used consists of information on 44898 rows of a [Kaggle dataset](https://www.kaggle.com/clmentbisaillon/fake-and-real-news-dataset) about fake and real news from the time between March 2015 and February 2018
 
